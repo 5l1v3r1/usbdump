@@ -1,0 +1,6 @@
+usbdump
+*.o
+*.tmp
+*~
+*.bak
+
